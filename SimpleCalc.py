@@ -1,8 +1,7 @@
 if __name__ == "__main__":
-    print("hello, world")
 
-    x = int(input("x: "))
-    y = int(input("y: "))
+    x = int(input("Number 1: "))
+    y = int(input("Number 2: "))
     op = input("operator: ")
 
     if op == "x":
